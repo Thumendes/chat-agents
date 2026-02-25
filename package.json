@@ -6,6 +6,7 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
+    "ai": "^6.0.100",
     "elysia": "latest"
   },
   "devDependencies": {

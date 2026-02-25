@@ -1,0 +1,963 @@
+[
+  {
+    "id": 3,
+    "meta": {
+      "team": null,
+      "sender": {
+        "id": 1850,
+        "name": "Thumendes",
+        "type": "contact",
+        "email": null,
+        "blocked": false,
+        "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+        "identifier": "553184736688@s.whatsapp.net",
+        "phone_number": "+553184736688",
+        "custom_attributes": {},
+        "additional_attributes": {
+          "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+          "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+        }
+      },
+      "assignee": null,
+      "hmac_verified": false
+    },
+    "event": "conversation_updated",
+    "labels": [],
+    "status": "open",
+    "channel": "Channel::Api",
+    "inbox_id": 31,
+    "messages": [
+      {
+        "id": 64419,
+        "sender": {
+          "id": 1850,
+          "name": "Thumendes",
+          "type": "contact",
+          "email": null,
+          "blocked": false,
+          "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+          "identifier": "553184736688@s.whatsapp.net",
+          "phone_number": "+553184736688",
+          "custom_attributes": {},
+          "additional_attributes": {
+            "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+            "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+          }
+        },
+        "status": "sent",
+        "content": "Tudo bem e você?",
+        "private": false,
+        "inbox_id": 31,
+        "sender_id": 1850,
+        "sentiment": {},
+        "source_id": "WAID:3A4DF4BAFD8CCDF98452",
+        "account_id": 19,
+        "created_at": 1772060963,
+        "updated_at": "2026-02-25T23:09:23.536Z",
+        "sender_type": "Contact",
+        "content_type": "text",
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 1,
+          "contact_inbox": { "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade" },
+          "last_activity_at": 1772060963
+        },
+        "message_type": 0,
+        "conversation_id": 3,
+        "content_attributes": {},
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "Tudo bem e você?"
+      }
+    ],
+    "priority": null,
+    "can_reply": true,
+    "timestamp": 1772060963,
+    "created_at": 1772060926,
+    "updated_at": 1772060963.5705001,
+    "unread_count": 1,
+    "contact_inbox": {
+      "id": 2925,
+      "inbox_id": 31,
+      "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+      "contact_id": 1850,
+      "created_at": "2026-02-25T23:08:46.747Z",
+      "updated_at": "2026-02-25T23:08:46.747Z",
+      "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+      "hmac_verified": false
+    },
+    "snoozed_until": null,
+    "waiting_since": 1772060963,
+    "last_activity_at": 1772060963,
+    "custom_attributes": {},
+    "agent_last_seen_at": 1772060960,
+    "changed_attributes": [
+      { "updated_at": { "current_value": "2026-02-25T23:09:23.570Z", "previous_value": "2026-02-25T23:09:23.539Z" } },
+      { "waiting_since": { "current_value": "2026-02-25T23:09:23.536Z", "previous_value": null } }
+    ],
+    "contact_last_seen_at": 1772060960,
+    "additional_attributes": {},
+    "first_reply_created_at": "2026-02-25T23:09:13.031Z"
+  },
+  {
+    "id": 1850,
+    "name": "Thumendes",
+    "email": null,
+    "event": "contact_updated",
+    "avatar": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+    "account": { "id": 19, "name": "ARTHUR TESTE" },
+    "blocked": false,
+    "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+    "identifier": "553184736688@s.whatsapp.net",
+    "phone_number": "+553184736688",
+    "custom_attributes": {},
+    "changed_attributes": [
+      { "updated_at": { "current_value": "2026-02-25T23:09:23.625Z", "previous_value": "2026-02-25T23:08:46.969Z" } },
+      {
+        "last_activity_at": {
+          "current_value": "2026-02-25T23:09:23.619Z",
+          "previous_value": "2026-02-25T23:08:46.964Z"
+        }
+      }
+    ],
+    "additional_attributes": {
+      "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+      "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+    }
+  },
+  {
+    "id": 64419,
+    "event": "message_created",
+    "inbox": { "id": 31, "name": "ARTHUR_TESTE" },
+    "sender": {
+      "id": 1850,
+      "name": "Thumendes",
+      "email": null,
+      "avatar": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+      "account": { "id": 19, "name": "ARTHUR TESTE" },
+      "blocked": false,
+      "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+      "identifier": "553184736688@s.whatsapp.net",
+      "phone_number": "+553184736688",
+      "custom_attributes": {},
+      "additional_attributes": {
+        "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+        "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+      }
+    },
+    "account": { "id": 19, "name": "ARTHUR TESTE" },
+    "content": "Tudo bem e você?",
+    "private": false,
+    "source_id": "WAID:3A4DF4BAFD8CCDF98452",
+    "created_at": "2026-02-25T23:09:23.536Z",
+    "content_type": "text",
+    "conversation": {
+      "id": 3,
+      "meta": {
+        "team": null,
+        "sender": {
+          "id": 1850,
+          "name": "Thumendes",
+          "type": "contact",
+          "email": null,
+          "blocked": false,
+          "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+          "identifier": "553184736688@s.whatsapp.net",
+          "phone_number": "+553184736688",
+          "custom_attributes": {},
+          "additional_attributes": {
+            "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+            "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+          }
+        },
+        "assignee": null,
+        "hmac_verified": false
+      },
+      "labels": [],
+      "status": "open",
+      "channel": "Channel::Api",
+      "inbox_id": 31,
+      "messages": [
+        {
+          "id": 64419,
+          "sender": {
+            "id": 1850,
+            "name": "Thumendes",
+            "type": "contact",
+            "email": null,
+            "blocked": false,
+            "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+            "identifier": "553184736688@s.whatsapp.net",
+            "phone_number": "+553184736688",
+            "custom_attributes": {},
+            "additional_attributes": {
+              "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+              "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+            }
+          },
+          "status": "sent",
+          "content": "Tudo bem e você?",
+          "private": false,
+          "inbox_id": 31,
+          "sender_id": 1850,
+          "sentiment": {},
+          "source_id": "WAID:3A4DF4BAFD8CCDF98452",
+          "account_id": 19,
+          "created_at": 1772060963,
+          "updated_at": "2026-02-25T23:09:23.536Z",
+          "sender_type": "Contact",
+          "content_type": "text",
+          "conversation": {
+            "assignee_id": null,
+            "unread_count": 1,
+            "contact_inbox": { "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade" },
+            "last_activity_at": 1772060963
+          },
+          "message_type": 0,
+          "conversation_id": 3,
+          "content_attributes": {},
+          "external_source_ids": {},
+          "additional_attributes": {},
+          "processed_message_content": "Tudo bem e você?"
+        }
+      ],
+      "priority": null,
+      "can_reply": true,
+      "timestamp": 1772060963,
+      "created_at": 1772060926,
+      "updated_at": 1772060963.5705001,
+      "unread_count": 1,
+      "contact_inbox": {
+        "id": 2925,
+        "inbox_id": 31,
+        "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+        "contact_id": 1850,
+        "created_at": "2026-02-25T23:08:46.747Z",
+        "updated_at": "2026-02-25T23:08:46.747Z",
+        "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+        "hmac_verified": false
+      },
+      "snoozed_until": null,
+      "waiting_since": 1772060963,
+      "last_activity_at": 1772060963,
+      "custom_attributes": {},
+      "agent_last_seen_at": 1772060960,
+      "contact_last_seen_at": 1772060960,
+      "additional_attributes": {},
+      "first_reply_created_at": "2026-02-25T23:09:13.031Z"
+    },
+    "message_type": "incoming",
+    "content_attributes": {},
+    "additional_attributes": {}
+  },
+  {
+    "id": 64418,
+    "event": "message_updated",
+    "inbox": { "id": 31, "name": "ARTHUR_TESTE" },
+    "sender": { "id": 22, "name": "Arthur Mendes", "type": "user", "email": "thumendess@gmail.com" },
+    "account": { "id": 19, "name": "ARTHUR TESTE" },
+    "content": "Ola, tudo bom?",
+    "private": false,
+    "source_id": null,
+    "created_at": "2026-02-25T23:09:13.031Z",
+    "content_type": "text",
+    "conversation": {
+      "id": 3,
+      "meta": {
+        "team": null,
+        "sender": {
+          "id": 1850,
+          "name": "Thumendes",
+          "type": "contact",
+          "email": null,
+          "blocked": false,
+          "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+          "identifier": "553184736688@s.whatsapp.net",
+          "phone_number": "+553184736688",
+          "custom_attributes": {},
+          "additional_attributes": {
+            "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+            "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+          }
+        },
+        "assignee": null,
+        "hmac_verified": false
+      },
+      "labels": [],
+      "status": "open",
+      "channel": "Channel::Api",
+      "inbox_id": 31,
+      "messages": [
+        {
+          "id": 64418,
+          "sender": {
+            "id": 22,
+            "name": "Arthur Mendes",
+            "type": "user",
+            "thumbnail": "",
+            "avatar_url": "",
+            "available_name": "Arthur Mendes",
+            "availability_status": null
+          },
+          "status": "read",
+          "content": "Ola, tudo bom?",
+          "private": false,
+          "inbox_id": 31,
+          "sender_id": 22,
+          "sentiment": {},
+          "source_id": null,
+          "account_id": 19,
+          "created_at": 1772060953,
+          "updated_at": "2026-02-25T23:09:20.658Z",
+          "sender_type": "User",
+          "content_type": "text",
+          "conversation": {
+            "assignee_id": null,
+            "unread_count": 0,
+            "contact_inbox": { "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade" },
+            "last_activity_at": 1772060953
+          },
+          "message_type": 1,
+          "conversation_id": 3,
+          "content_attributes": {},
+          "external_source_ids": {},
+          "additional_attributes": {},
+          "processed_message_content": "Ola, tudo bom?"
+        }
+      ],
+      "priority": null,
+      "can_reply": true,
+      "timestamp": 1772060953,
+      "created_at": 1772060926,
+      "updated_at": 1772060960.661966,
+      "unread_count": 0,
+      "contact_inbox": {
+        "id": 2925,
+        "inbox_id": 31,
+        "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+        "contact_id": 1850,
+        "created_at": "2026-02-25T23:08:46.747Z",
+        "updated_at": "2026-02-25T23:08:46.747Z",
+        "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+        "hmac_verified": false
+      },
+      "snoozed_until": null,
+      "waiting_since": 0,
+      "last_activity_at": 1772060953,
+      "custom_attributes": {},
+      "agent_last_seen_at": 1772060953,
+      "contact_last_seen_at": 1772060960,
+      "additional_attributes": {},
+      "first_reply_created_at": "2026-02-25T23:09:13.031Z"
+    },
+    "message_type": "outgoing",
+    "content_attributes": {},
+    "additional_attributes": {}
+  },
+  {
+    "user": { "id": 22, "name": "Arthur Mendes", "type": "user", "email": "thumendess@gmail.com" },
+    "event": "conversation_typing_off",
+    "is_private": false,
+    "conversation": {
+      "id": 3,
+      "meta": {
+        "team": null,
+        "sender": {
+          "id": 1850,
+          "name": "Thumendes",
+          "type": "contact",
+          "email": null,
+          "blocked": false,
+          "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+          "identifier": "553184736688@s.whatsapp.net",
+          "phone_number": "+553184736688",
+          "custom_attributes": {},
+          "additional_attributes": {
+            "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+            "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+          }
+        },
+        "assignee": null,
+        "hmac_verified": false
+      },
+      "labels": [],
+      "status": "open",
+      "channel": "Channel::Api",
+      "inbox_id": 31,
+      "messages": [
+        {
+          "id": 64418,
+          "sender": {
+            "id": 22,
+            "name": "Arthur Mendes",
+            "type": "user",
+            "thumbnail": "",
+            "avatar_url": "",
+            "available_name": "Arthur Mendes",
+            "availability_status": null
+          },
+          "status": "sent",
+          "content": "Ola, tudo bom?",
+          "private": false,
+          "inbox_id": 31,
+          "sender_id": 22,
+          "sentiment": {},
+          "source_id": null,
+          "account_id": 19,
+          "created_at": 1772060953,
+          "updated_at": "2026-02-25T23:09:13.031Z",
+          "sender_type": "User",
+          "content_type": "text",
+          "conversation": {
+            "assignee_id": null,
+            "unread_count": 0,
+            "contact_inbox": { "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade" },
+            "last_activity_at": 1772060953
+          },
+          "message_type": 1,
+          "conversation_id": 3,
+          "content_attributes": {},
+          "external_source_ids": {},
+          "additional_attributes": {},
+          "processed_message_content": "Ola, tudo bom?"
+        }
+      ],
+      "priority": null,
+      "can_reply": true,
+      "timestamp": 1772060953,
+      "created_at": 1772060926,
+      "updated_at": 1772060953.135993,
+      "unread_count": 0,
+      "contact_inbox": {
+        "id": 2925,
+        "inbox_id": 31,
+        "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+        "contact_id": 1850,
+        "created_at": "2026-02-25T23:08:46.747Z",
+        "updated_at": "2026-02-25T23:08:46.747Z",
+        "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+        "hmac_verified": false
+      },
+      "snoozed_until": null,
+      "waiting_since": 0,
+      "last_activity_at": 1772060953,
+      "custom_attributes": {},
+      "agent_last_seen_at": 1772060953,
+      "contact_last_seen_at": 0,
+      "additional_attributes": {},
+      "first_reply_created_at": "2026-02-25T23:09:13.031Z"
+    }
+  },
+  {
+    "id": 3,
+    "meta": {
+      "team": null,
+      "sender": {
+        "id": 1850,
+        "name": "Thumendes",
+        "type": "contact",
+        "email": null,
+        "blocked": false,
+        "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+        "identifier": "553184736688@s.whatsapp.net",
+        "phone_number": "+553184736688",
+        "custom_attributes": {},
+        "additional_attributes": {
+          "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+          "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+        }
+      },
+      "assignee": null,
+      "hmac_verified": false
+    },
+    "event": "conversation_updated",
+    "labels": [],
+    "status": "open",
+    "channel": "Channel::Api",
+    "inbox_id": 31,
+    "messages": [
+      {
+        "id": 64418,
+        "sender": {
+          "id": 22,
+          "name": "Arthur Mendes",
+          "type": "user",
+          "thumbnail": "",
+          "avatar_url": "",
+          "available_name": "Arthur Mendes",
+          "availability_status": null
+        },
+        "status": "sent",
+        "content": "Ola, tudo bom?",
+        "private": false,
+        "inbox_id": 31,
+        "sender_id": 22,
+        "sentiment": {},
+        "source_id": null,
+        "account_id": 19,
+        "created_at": 1772060953,
+        "updated_at": "2026-02-25T23:09:13.031Z",
+        "sender_type": "User",
+        "content_type": "text",
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "contact_inbox": { "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade" },
+          "last_activity_at": 1772060953
+        },
+        "message_type": 1,
+        "conversation_id": 3,
+        "content_attributes": {},
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "Ola, tudo bom?"
+      }
+    ],
+    "priority": null,
+    "can_reply": true,
+    "timestamp": 1772060953,
+    "created_at": 1772060926,
+    "updated_at": 1772060953.135993,
+    "unread_count": 0,
+    "contact_inbox": {
+      "id": 2925,
+      "inbox_id": 31,
+      "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+      "contact_id": 1850,
+      "created_at": "2026-02-25T23:08:46.747Z",
+      "updated_at": "2026-02-25T23:08:46.747Z",
+      "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+      "hmac_verified": false
+    },
+    "snoozed_until": null,
+    "waiting_since": 0,
+    "last_activity_at": 1772060953,
+    "custom_attributes": {},
+    "agent_last_seen_at": 1772060953,
+    "changed_attributes": [
+      { "updated_at": { "current_value": "2026-02-25T23:09:13.135Z", "previous_value": "2026-02-25T23:09:13.043Z" } },
+      { "first_reply_created_at": { "current_value": "2026-02-25T23:09:13.031Z", "previous_value": null } },
+      { "waiting_since": { "current_value": null, "previous_value": "2026-02-25T23:08:46.761Z" } }
+    ],
+    "contact_last_seen_at": 0,
+    "additional_attributes": {},
+    "first_reply_created_at": "2026-02-25T23:09:13.031Z"
+  },
+  {
+    "id": 64418,
+    "event": "message_created",
+    "inbox": { "id": 31, "name": "ARTHUR_TESTE" },
+    "sender": { "id": 22, "name": "Arthur Mendes", "type": "user", "email": "thumendess@gmail.com" },
+    "account": { "id": 19, "name": "ARTHUR TESTE" },
+    "content": "Ola, tudo bom?",
+    "private": false,
+    "source_id": null,
+    "created_at": "2026-02-25T23:09:13.031Z",
+    "content_type": "text",
+    "conversation": {
+      "id": 3,
+      "meta": {
+        "team": null,
+        "sender": {
+          "id": 1850,
+          "name": "Thumendes",
+          "type": "contact",
+          "email": null,
+          "blocked": false,
+          "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+          "identifier": "553184736688@s.whatsapp.net",
+          "phone_number": "+553184736688",
+          "custom_attributes": {},
+          "additional_attributes": {
+            "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+            "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+          }
+        },
+        "assignee": null,
+        "hmac_verified": false
+      },
+      "labels": [],
+      "status": "open",
+      "channel": "Channel::Api",
+      "inbox_id": 31,
+      "messages": [
+        {
+          "id": 64418,
+          "sender": {
+            "id": 22,
+            "name": "Arthur Mendes",
+            "type": "user",
+            "thumbnail": "",
+            "avatar_url": "",
+            "available_name": "Arthur Mendes",
+            "availability_status": null
+          },
+          "status": "sent",
+          "content": "Ola, tudo bom?",
+          "private": false,
+          "inbox_id": 31,
+          "sender_id": 22,
+          "sentiment": {},
+          "source_id": null,
+          "account_id": 19,
+          "created_at": 1772060953,
+          "updated_at": "2026-02-25T23:09:13.031Z",
+          "sender_type": "User",
+          "content_type": "text",
+          "conversation": {
+            "assignee_id": null,
+            "unread_count": 0,
+            "contact_inbox": { "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade" },
+            "last_activity_at": 1772060953
+          },
+          "message_type": 1,
+          "conversation_id": 3,
+          "content_attributes": {},
+          "external_source_ids": {},
+          "additional_attributes": {},
+          "processed_message_content": "Ola, tudo bom?"
+        }
+      ],
+      "priority": null,
+      "can_reply": true,
+      "timestamp": 1772060953,
+      "created_at": 1772060926,
+      "updated_at": 1772060953.0435588,
+      "unread_count": 0,
+      "contact_inbox": {
+        "id": 2925,
+        "inbox_id": 31,
+        "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+        "contact_id": 1850,
+        "created_at": "2026-02-25T23:08:46.747Z",
+        "updated_at": "2026-02-25T23:08:46.747Z",
+        "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+        "hmac_verified": false
+      },
+      "snoozed_until": null,
+      "waiting_since": 1772060926,
+      "last_activity_at": 1772060953,
+      "custom_attributes": {},
+      "agent_last_seen_at": 1772060953,
+      "contact_last_seen_at": 0,
+      "additional_attributes": {},
+      "first_reply_created_at": null
+    },
+    "message_type": "outgoing",
+    "content_attributes": {},
+    "additional_attributes": {}
+  },
+  {
+    "user": { "id": 22, "name": "Arthur Mendes", "type": "user", "email": "thumendess@gmail.com" },
+    "event": "conversation_typing_on",
+    "is_private": false,
+    "conversation": {
+      "id": 3,
+      "meta": {
+        "team": null,
+        "sender": {
+          "id": 1850,
+          "name": "Thumendes",
+          "type": "contact",
+          "email": null,
+          "blocked": false,
+          "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+          "identifier": "553184736688@s.whatsapp.net",
+          "phone_number": "+553184736688",
+          "custom_attributes": {},
+          "additional_attributes": {
+            "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+            "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+          }
+        },
+        "assignee": null,
+        "hmac_verified": false
+      },
+      "labels": [],
+      "status": "open",
+      "channel": "Channel::Api",
+      "inbox_id": 31,
+      "messages": [
+        {
+          "id": 64417,
+          "sender": {
+            "id": 1850,
+            "name": "Thumendes",
+            "type": "contact",
+            "email": null,
+            "blocked": false,
+            "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+            "identifier": "553184736688@s.whatsapp.net",
+            "phone_number": "+553184736688",
+            "custom_attributes": {},
+            "additional_attributes": {
+              "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+              "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+            }
+          },
+          "status": "sent",
+          "content": "Teste",
+          "private": false,
+          "inbox_id": 31,
+          "sender_id": 1850,
+          "sentiment": {},
+          "source_id": "WAID:3A479B13DC50DE9646C1",
+          "account_id": 19,
+          "created_at": 1772060926,
+          "updated_at": "2026-02-25T23:08:46.919Z",
+          "sender_type": "Contact",
+          "content_type": "text",
+          "conversation": {
+            "assignee_id": null,
+            "unread_count": 0,
+            "contact_inbox": { "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade" },
+            "last_activity_at": 1772060926
+          },
+          "message_type": 0,
+          "conversation_id": 3,
+          "content_attributes": {},
+          "external_source_ids": {},
+          "additional_attributes": {},
+          "processed_message_content": "Teste"
+        }
+      ],
+      "priority": null,
+      "can_reply": true,
+      "timestamp": 1772060926,
+      "created_at": 1772060926,
+      "updated_at": 1772060926.92372,
+      "unread_count": 0,
+      "contact_inbox": {
+        "id": 2925,
+        "inbox_id": 31,
+        "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+        "contact_id": 1850,
+        "created_at": "2026-02-25T23:08:46.747Z",
+        "updated_at": "2026-02-25T23:08:46.747Z",
+        "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+        "hmac_verified": false
+      },
+      "snoozed_until": null,
+      "waiting_since": 1772060926,
+      "last_activity_at": 1772060926,
+      "custom_attributes": {},
+      "agent_last_seen_at": 1772060950,
+      "contact_last_seen_at": 0,
+      "additional_attributes": {},
+      "first_reply_created_at": null
+    }
+  },
+  {
+    "id": 64417,
+    "event": "message_created",
+    "inbox": { "id": 31, "name": "ARTHUR_TESTE" },
+    "sender": {
+      "id": 1850,
+      "name": "Thumendes",
+      "email": null,
+      "avatar": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+      "account": { "id": 19, "name": "ARTHUR TESTE" },
+      "blocked": false,
+      "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+      "identifier": "553184736688@s.whatsapp.net",
+      "phone_number": "+553184736688",
+      "custom_attributes": {},
+      "additional_attributes": {
+        "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+        "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+      }
+    },
+    "account": { "id": 19, "name": "ARTHUR TESTE" },
+    "content": "Teste",
+    "private": false,
+    "source_id": "WAID:3A479B13DC50DE9646C1",
+    "created_at": "2026-02-25T23:08:46.919Z",
+    "content_type": "text",
+    "conversation": {
+      "id": 3,
+      "meta": {
+        "team": null,
+        "sender": {
+          "id": 1850,
+          "name": "Thumendes",
+          "type": "contact",
+          "email": null,
+          "blocked": false,
+          "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+          "identifier": "553184736688@s.whatsapp.net",
+          "phone_number": "+553184736688",
+          "custom_attributes": {},
+          "additional_attributes": {
+            "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+            "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+          }
+        },
+        "assignee": null,
+        "hmac_verified": false
+      },
+      "labels": [],
+      "status": "open",
+      "channel": "Channel::Api",
+      "inbox_id": 31,
+      "messages": [
+        {
+          "id": 64417,
+          "sender": {
+            "id": 1850,
+            "name": "Thumendes",
+            "type": "contact",
+            "email": null,
+            "blocked": false,
+            "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+            "identifier": "553184736688@s.whatsapp.net",
+            "phone_number": "+553184736688",
+            "custom_attributes": {},
+            "additional_attributes": {
+              "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+              "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+            }
+          },
+          "status": "sent",
+          "content": "Teste",
+          "private": false,
+          "inbox_id": 31,
+          "sender_id": 1850,
+          "sentiment": {},
+          "source_id": "WAID:3A479B13DC50DE9646C1",
+          "account_id": 19,
+          "created_at": 1772060926,
+          "updated_at": "2026-02-25T23:08:46.919Z",
+          "sender_type": "Contact",
+          "content_type": "text",
+          "conversation": {
+            "assignee_id": null,
+            "unread_count": 1,
+            "contact_inbox": { "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade" },
+            "last_activity_at": 1772060926
+          },
+          "message_type": 0,
+          "conversation_id": 3,
+          "content_attributes": {},
+          "external_source_ids": {},
+          "additional_attributes": {},
+          "processed_message_content": "Teste"
+        }
+      ],
+      "priority": null,
+      "can_reply": true,
+      "timestamp": 1772060926,
+      "created_at": 1772060926,
+      "updated_at": 1772060926.92372,
+      "unread_count": 1,
+      "contact_inbox": {
+        "id": 2925,
+        "inbox_id": 31,
+        "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+        "contact_id": 1850,
+        "created_at": "2026-02-25T23:08:46.747Z",
+        "updated_at": "2026-02-25T23:08:46.747Z",
+        "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+        "hmac_verified": false
+      },
+      "snoozed_until": null,
+      "waiting_since": 1772060926,
+      "last_activity_at": 1772060926,
+      "custom_attributes": {},
+      "agent_last_seen_at": 0,
+      "contact_last_seen_at": 0,
+      "additional_attributes": {},
+      "first_reply_created_at": null
+    },
+    "message_type": "incoming",
+    "content_attributes": {},
+    "additional_attributes": {}
+  },
+  {
+    "id": 1850,
+    "name": "Thumendes",
+    "email": null,
+    "event": "contact_updated",
+    "avatar": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+    "account": { "id": 19, "name": "ARTHUR TESTE" },
+    "blocked": false,
+    "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+    "identifier": "553184736688@s.whatsapp.net",
+    "phone_number": "+553184736688",
+    "custom_attributes": {},
+    "changed_attributes": [
+      { "updated_at": { "current_value": "2026-02-25T23:08:46.969Z", "previous_value": "2026-02-25T23:08:46.673Z" } },
+      { "last_activity_at": { "current_value": "2026-02-25T23:08:46.964Z", "previous_value": null } }
+    ],
+    "additional_attributes": {
+      "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+      "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+    }
+  },
+  {
+    "id": 3,
+    "meta": {
+      "team": null,
+      "sender": {
+        "id": 1850,
+        "name": "Thumendes",
+        "type": "contact",
+        "email": null,
+        "blocked": false,
+        "thumbnail": "https://chat.kapthalead.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a36200be8c4bc394a1e396d6ab14f76458b43dda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWZvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2a2e3b16113d6dbe636b764c5ef6862c6933ebd0/559966980_791311350312445_2071101083453215972_n.jpg",
+        "identifier": "553184736688@s.whatsapp.net",
+        "phone_number": "+553184736688",
+        "custom_attributes": {},
+        "additional_attributes": {
+          "avatar_url_hash": "aa7167f15ef0a4a0a035d8b5042f278ca75d773ff4c5f1dd8f6a1ad2a13fdd64",
+          "last_avatar_sync_at": "2026-02-25T23:08:46Z"
+        }
+      },
+      "assignee": null,
+      "hmac_verified": false
+    },
+    "event": "conversation_created",
+    "labels": [],
+    "status": "open",
+    "channel": "Channel::Api",
+    "inbox_id": 31,
+    "messages": [],
+    "priority": null,
+    "can_reply": true,
+    "timestamp": 1772060926,
+    "created_at": 1772060926,
+    "updated_at": 1772060926.7619562,
+    "unread_count": 0,
+    "contact_inbox": {
+      "id": 2925,
+      "inbox_id": 31,
+      "source_id": "84f8c175-9c64-4313-866c-b1d9aed07ade",
+      "contact_id": 1850,
+      "created_at": "2026-02-25T23:08:46.747Z",
+      "updated_at": "2026-02-25T23:08:46.747Z",
+      "pubsub_token": "FaCgcDZg7x1yNGcfB28jS7rS",
+      "hmac_verified": false
+    },
+    "snoozed_until": null,
+    "waiting_since": 1772060926,
+    "last_activity_at": 1772060926,
+    "custom_attributes": {},
+    "agent_last_seen_at": 0,
+    "contact_last_seen_at": 0,
+    "additional_attributes": {},
+    "first_reply_created_at": null
+  },
+  {
+    "id": 1850,
+    "name": "Thumendes",
+    "email": null,
+    "event": "contact_created",
+    "avatar": "",
+    "account": { "id": 19, "name": "ARTHUR TESTE" },
+    "blocked": false,
+    "thumbnail": "",
+    "identifier": "553184736688@s.whatsapp.net",
+    "phone_number": "+553184736688",
+    "custom_attributes": {},
+    "additional_attributes": {}
+  }
+]
